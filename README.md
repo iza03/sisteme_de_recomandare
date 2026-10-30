@@ -35,7 +35,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Credencialele se configureaza in terminal si nu se salveaza in repository:
+Credentialele se configureaza in terminal si nu se salveaza in repository:
 
 ```bash
 export RECOMBEE_DATABASE_ID="id-ul-bazei-development"
