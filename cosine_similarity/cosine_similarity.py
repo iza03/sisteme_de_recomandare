@@ -1,5 +1,3 @@
-"""Laborator 5 - Cosine similarity intre produsele Tesco."""
-
 import html
 import json
 import re
